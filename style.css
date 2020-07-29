@@ -289,3 +289,12 @@ span {
        color:red;
     }
 }
+
+.foot {
+  font-size: 12px;
+  margin-top: 1px;
+}
+
+.foot-atas {
+  margin-bottom: 1px;
+}
