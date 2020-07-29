@@ -222,6 +222,15 @@ span {
    border-radius: 5px;
 }
 
+.foot {
+  font-size: 12px;
+  margin-top: 1px;
+}
+
+.foot-atas {
+  margin-bottom: 1px;
+  margin-top:4px;
+}
 
 @media screen and (max-width: 1000px) {
   #content,
@@ -288,13 +297,4 @@ span {
     #nav .beranda a:hover {
        color:red;
     }
-}
-
-.foot {
-  font-size: 10px;
-  margin-top: 1px;
-}
-
-.foot-atas {
-  margin-bottom: 1px;
 }
