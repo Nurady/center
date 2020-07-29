@@ -253,10 +253,12 @@ span {
       border-radius:5px;
       background: url('icon.png') no-repeat 5px 7px;
       box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+      background-color:#66CDAA;
     }
 
     #nav li {
       display:none;
+      background-color:#66CDAA;
     }
 
     #nav .beranda {
@@ -283,7 +285,7 @@ span {
       margin: 0 0 5px;
     }
 
-    #nav .current a:hover {
+    #nav .beranda a:hover {
        color:red;
     }
 }
